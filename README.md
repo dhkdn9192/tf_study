@@ -1,4 +1,3 @@
+# Machine Learning and TensorFlow Playground
 
-# Machine Learning Study Space of DHKim
-
-당신은 DHKim에 의해 환영받는다! 학습이 이루어짐을 당한다 당신은 DHKim에 의해.
+머신러닝, 딥러닝 학습 내용과 텐서플로우 사용법 등을 정리한 레포지터리입니다.
